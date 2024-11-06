@@ -1,0 +1,12 @@
+D:\karelialäksyt\sovellusarkkitehtuurit\tehtävä3\AppLogger\bin\Debug\net8.0\AppLogger.deps.json
+D:\karelialäksyt\sovellusarkkitehtuurit\tehtävä3\AppLogger\bin\Debug\net8.0\AppLogger.dll
+D:\karelialäksyt\sovellusarkkitehtuurit\tehtävä3\AppLogger\bin\Debug\net8.0\AppLogger.pdb
+D:\karelialäksyt\sovellusarkkitehtuurit\tehtävä3\AppLogger\obj\Debug\net8.0\AppLogger.GeneratedMSBuildEditorConfig.editorconfig
+D:\karelialäksyt\sovellusarkkitehtuurit\tehtävä3\AppLogger\obj\Debug\net8.0\AppLogger.AssemblyInfoInputs.cache
+D:\karelialäksyt\sovellusarkkitehtuurit\tehtävä3\AppLogger\obj\Debug\net8.0\AppLogger.AssemblyInfo.cs
+D:\karelialäksyt\sovellusarkkitehtuurit\tehtävä3\AppLogger\obj\Debug\net8.0\AppLogger.csproj.CoreCompileInputs.cache
+D:\karelialäksyt\sovellusarkkitehtuurit\tehtävä3\AppLogger\obj\Debug\net8.0\AppLogger.dll
+D:\karelialäksyt\sovellusarkkitehtuurit\tehtävä3\AppLogger\obj\Debug\net8.0\refint\AppLogger.dll
+D:\karelialäksyt\sovellusarkkitehtuurit\tehtävä3\AppLogger\obj\Debug\net8.0\AppLogger.pdb
+D:\karelialäksyt\sovellusarkkitehtuurit\tehtävä3\AppLogger\obj\Debug\net8.0\ref\AppLogger.dll
+D:\karelialäksyt\sovellusarkkitehtuurit\tehtävä3\AppLogger\obj\Debug\net8.0\AppLogger.csproj.AssemblyReference.cache
